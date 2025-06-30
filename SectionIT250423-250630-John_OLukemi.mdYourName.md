@@ -11,3 +11,17 @@
 
   [Survey Sparrow](https://surveysparrow.com/blog/probing-questions-customer-service/)
   
+# Part B
+## Microsoft Windows memory Troubleshooting
+- Close programs
+- Use Windows troubleshooter
+- Use Windows Memory Diagnostic Tool
+
+    ![image](https://i.pcmag.com/imagery/articles/033t9rbACOWvmmVxUYBm7DB-10.fit_lim.size_768x.png)
+
+  ### Resources
+  [PCMAG](https://www.pcmag.com/how-to/how-to-check-for-memory-problems-in-windows) (Artice dated April 25, 2022)
+  
+  [EaseUS](https://www.easeus.com/computer-instruction/your-computer-is-low-on-memory.html?srsltid=AfmBOorewr-FBpY3HBK7sSBb6C7R25ZMwKj8elWeYtBiTLPgFbPONUvg) -Jan 24, 2025
+  
+  https://www.youtube.com/watch?v=5hVw9J_HC88 
