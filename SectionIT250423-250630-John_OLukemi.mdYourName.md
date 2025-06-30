@@ -25,3 +25,15 @@
   [EaseUS](https://www.easeus.com/computer-instruction/your-computer-is-low-on-memory.html?srsltid=AfmBOorewr-FBpY3HBK7sSBb6C7R25ZMwKj8elWeYtBiTLPgFbPONUvg) -Jan 24, 2025
   
   https://www.youtube.com/watch?v=5hVw9J_HC88 (Jan 7, 2024)
+
+# Part C
+## Troubleshooting MS Windows Application
+1. Investigate using the **Event Viewer**
+2. Enable **crash dumps**
+3. Analyze crash with **WinDbg**
+
+  ### Resources
+[The Exprience Blog](https://www.theexperienceblog.com/2023/05/15/troubleshooting-an-application-that-crashes-in-windows-a-few-tools-tips-and-tricks/)
+Artice dated May 15, 2023 by Andreas Stenhall- a Windows Client Consultant
+
+[Microsoft Ignite](https://learn.microsoft.com/en-us/windows-app/troubleshoot-basic?tabs=windows) -09/24/2024
