@@ -37,3 +37,17 @@
 Artice dated May 15, 2023 by Andreas Stenhall- a Windows Client Consultant
 
 [Microsoft Ignite](https://learn.microsoft.com/en-us/windows-app/troubleshoot-basic?tabs=windows) -09/24/2024
+
+# Question 2
+## Working with Windows File Explorer
+- Opening File Explorer
+- Quick Access
+- Moving and deleting files
+- Creating folders
+
+  ### Resources
+  [GCF Global](https://edu.gcfglobal.org/en/windowsbasics/working-with-files/1/)
+
+  [Microsoft Support](https://support.microsoft.com/en-us/windows/file-explorer-in-windows-ef370130-1cca-9dc5-e0df-2f7416fe1cb1)
+
+  [OnlineComputerTips](https://www.youtube.com/watch?v=irk0adNl5c0) Youtube Video dated Jan 20, 2025
